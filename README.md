@@ -5,9 +5,9 @@ Frequency-shift keying (FSK) is a frequency modulation scheme in which digital i
 
 Rather than directly modulating the frequency with the digital data symbols, "instantaneously" changing the frequency at the beginning of each symbol period, Gaussian frequency-shift keying (GFSK) filters the data pulses with a Gaussian filter to make the transitions smoother.
 
-![image](https://github.com/user-attachments/assets/6f313674-82e8-4b1f-b3a6-5bc57b4e987b)
+![image](https://github.com/user-attachments/assets/7da060f5-9c10-449f-a68f-b3cebae46618)
 
 
 Results:
 
-
+![image](https://github.com/user-attachments/assets/6f313674-82e8-4b1f-b3a6-5bc57b4e987b)
